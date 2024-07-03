@@ -1,4 +1,4 @@
-# breaking_bad_app_bloc
+# the_simpsons_bloc
 
 A new Flutter project.
 
